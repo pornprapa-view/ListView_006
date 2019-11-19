@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListView_006</string>
+    <string name="btn_back">กลับ</string>
+    <string name="tv_menu">ข้อมูลผัก</string>
+    <string name="tv_header">ชื่อผัก</string>
+</resources>
+
